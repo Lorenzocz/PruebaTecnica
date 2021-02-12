@@ -1,0 +1,12 @@
+D:\Prueba Tecnica\PruebaTecnica\PruebaTecnica_AccesoDatos\bin\Debug\netcoreapp3.1\PruebaTecnica_Entidades.dll
+D:\Prueba Tecnica\PruebaTecnica\PruebaTecnica_AccesoDatos\obj\Debug\netcoreapp3.1\PruebaTecnica_AccesoDatos.csprojAssemblyReference.cache
+D:\Prueba Tecnica\PruebaTecnica\PruebaTecnica_AccesoDatos\obj\Debug\netcoreapp3.1\PruebaTecnica_AccesoDatos.AssemblyInfoInputs.cache
+D:\Prueba Tecnica\PruebaTecnica\PruebaTecnica_AccesoDatos\obj\Debug\netcoreapp3.1\PruebaTecnica_AccesoDatos.AssemblyInfo.cs
+D:\Prueba Tecnica\PruebaTecnica\PruebaTecnica_AccesoDatos\bin\Debug\netcoreapp3.1\PruebaTecnica_AccesoDatos.deps.json
+D:\Prueba Tecnica\PruebaTecnica\PruebaTecnica_AccesoDatos\bin\Debug\netcoreapp3.1\PruebaTecnica_AccesoDatos.dll
+D:\Prueba Tecnica\PruebaTecnica\PruebaTecnica_AccesoDatos\bin\Debug\netcoreapp3.1\PruebaTecnica_AccesoDatos.pdb
+D:\Prueba Tecnica\PruebaTecnica\PruebaTecnica_AccesoDatos\bin\Debug\netcoreapp3.1\PruebaTecnica_Entidades.pdb
+D:\Prueba Tecnica\PruebaTecnica\PruebaTecnica_AccesoDatos\obj\Debug\netcoreapp3.1\PruebaTecnica_AccesoDatos.csproj.CoreCompileInputs.cache
+D:\Prueba Tecnica\PruebaTecnica\PruebaTecnica_AccesoDatos\obj\Debug\netcoreapp3.1\PruebaTecnica_AccesoDatos.csproj.CopyComplete
+D:\Prueba Tecnica\PruebaTecnica\PruebaTecnica_AccesoDatos\obj\Debug\netcoreapp3.1\PruebaTecnica_AccesoDatos.dll
+D:\Prueba Tecnica\PruebaTecnica\PruebaTecnica_AccesoDatos\obj\Debug\netcoreapp3.1\PruebaTecnica_AccesoDatos.pdb

@@ -1,0 +1,89 @@
+﻿@*
+    For more information on enabling MVC for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
+*@
+@{
+}
+
+@model PruebaTecnica_Entidades.RegistrarServicio;
+
+
+<div class="modal-body row">
+
+    <div class="col-md-6 ">
+        <h1>Lista de Servicios</h1>
+         
+        <ul>
+            <li>01 -  Lavado Interno</li>
+            <li>02 -  Lavado Normal </li>
+            <li>04 -  Encerado</li>
+
+
+        </ul>
+
+    </div>
+
+    <div class="col-md-6">
+
+        <h6>Dueño del Vehiculo</h6>
+       
+        <p>@ViewBag.dueno</p>
+     
+        <h6>Marca del Vehiculo</h6>
+        <p>@ViewBag.marca</p>
+       
+        <h6>Placca del Vehiculo</h6>
+        <p>@ViewBag.placa</p>
+
+
+
+        <form method="post" asp-action="Resultado" asp-controller="Home">
+
+            <div class="container">
+
+                <div class="form-group">
+                    <div >
+                        <div >
+                            <label>Escriba el identificador del servicio</label>
+                        </div>
+                        <div>
+                            <input type="text" asp-for="ID_Servicio" class="form-control" />
+                        </div>
+                    </div>
+                </div>
+
+                <div class="form-group">
+                    <div >
+                        <div >
+                            <label>Vehiculo</label>
+                        </div>
+                        <div >
+                            <input type="text" asp-for="ID_Vehiculo" class="form-control" value="@ViewBag.id" readonly="readonly" />
+                        </div>
+                    </div>
+                </div>
+
+                @*botones*@
+                <div class="form-group">
+                    <div class="row">
+
+                        <div class="col-sm-4">
+                            <input type="submit" value="Agregar Servicio" class="btn btn-primary form-control" />
+                        </div>
+                    </div>
+                </div>
+                <div class="form-group">
+                    <div class="row">
+
+                        <div class="col-sm-4">
+                            <a asp-controller="Home" asp-action="Index" class="btn btn-success form-control"> Volver a la lista de Vehiculos</a>
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+        </form>
+    </div>
+    </div>
+
+
+

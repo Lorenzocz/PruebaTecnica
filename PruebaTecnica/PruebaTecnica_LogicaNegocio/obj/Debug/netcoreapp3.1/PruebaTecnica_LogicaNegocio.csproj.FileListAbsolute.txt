@@ -1,0 +1,14 @@
+D:\Prueba Tecnica\PruebaTecnica\PruebaTecnica_LogicaNegocio\bin\Debug\netcoreapp3.1\PruebaTecnica_LogicaNegocio.deps.json
+D:\Prueba Tecnica\PruebaTecnica\PruebaTecnica_LogicaNegocio\bin\Debug\netcoreapp3.1\PruebaTecnica_LogicaNegocio.dll
+D:\Prueba Tecnica\PruebaTecnica\PruebaTecnica_LogicaNegocio\bin\Debug\netcoreapp3.1\PruebaTecnica_LogicaNegocio.pdb
+D:\Prueba Tecnica\PruebaTecnica\PruebaTecnica_LogicaNegocio\bin\Debug\netcoreapp3.1\PruebaTecnica_AccesoDatos.dll
+D:\Prueba Tecnica\PruebaTecnica\PruebaTecnica_LogicaNegocio\bin\Debug\netcoreapp3.1\PruebaTecnica_Entidades.dll
+D:\Prueba Tecnica\PruebaTecnica\PruebaTecnica_LogicaNegocio\bin\Debug\netcoreapp3.1\PruebaTecnica_AccesoDatos.pdb
+D:\Prueba Tecnica\PruebaTecnica\PruebaTecnica_LogicaNegocio\bin\Debug\netcoreapp3.1\PruebaTecnica_Entidades.pdb
+D:\Prueba Tecnica\PruebaTecnica\PruebaTecnica_LogicaNegocio\obj\Debug\netcoreapp3.1\PruebaTecnica_LogicaNegocio.csprojAssemblyReference.cache
+D:\Prueba Tecnica\PruebaTecnica\PruebaTecnica_LogicaNegocio\obj\Debug\netcoreapp3.1\PruebaTecnica_LogicaNegocio.AssemblyInfoInputs.cache
+D:\Prueba Tecnica\PruebaTecnica\PruebaTecnica_LogicaNegocio\obj\Debug\netcoreapp3.1\PruebaTecnica_LogicaNegocio.AssemblyInfo.cs
+D:\Prueba Tecnica\PruebaTecnica\PruebaTecnica_LogicaNegocio\obj\Debug\netcoreapp3.1\PruebaTecnica_LogicaNegocio.csproj.CoreCompileInputs.cache
+D:\Prueba Tecnica\PruebaTecnica\PruebaTecnica_LogicaNegocio\obj\Debug\netcoreapp3.1\PruebaTecnica_LogicaNegocio.csproj.CopyComplete
+D:\Prueba Tecnica\PruebaTecnica\PruebaTecnica_LogicaNegocio\obj\Debug\netcoreapp3.1\PruebaTecnica_LogicaNegocio.dll
+D:\Prueba Tecnica\PruebaTecnica\PruebaTecnica_LogicaNegocio\obj\Debug\netcoreapp3.1\PruebaTecnica_LogicaNegocio.pdb

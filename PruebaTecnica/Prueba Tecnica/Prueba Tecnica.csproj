@@ -1,0 +1,17 @@
+<Project Sdk="Microsoft.NET.Sdk.Web">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+    <RootNamespace>Prueba_Tecnica</RootNamespace>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Microsoft.VisualStudio.Web.CodeGeneration.Design" Version="3.1.5" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\PruebaTecnica_Entidades\PruebaTecnica_Entidades.csproj" />
+    <ProjectReference Include="..\PruebaTecnica_LogicaNegocio\PruebaTecnica_LogicaNegocio.csproj" />
+  </ItemGroup>
+
+</Project>

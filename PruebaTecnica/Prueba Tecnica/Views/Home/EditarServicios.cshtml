@@ -1,0 +1,68 @@
+﻿@*
+    For more information on enabling MVC for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
+*@
+@{
+}
+
+@model PruebaTecnica_Entidades.MisServicios;
+
+<div class="border">
+
+    
+
+    <form method="post" asp-action="ProcesoEditado" asp-controller="Home">
+
+        <div class="container" style="padding:30px;">
+
+            <div class="form-group">
+                <div class="row">
+                    <div class="col-sm-2">
+                        <label>Descripcion</label>
+                    </div>
+                    <div class="col-sm-4">
+                        <input type="text" asp-for="Descripcion" class="form-control" />
+                    </div>
+                </div>
+            </div>
+            <div class="form-group">
+                <div class="row">
+                    <div class="col-sm-2">
+                        <label>Nuevo Precio</label>
+                    </div>
+                    <div class="col-sm-4">
+                        <input type="text" asp-for="Monto" class="form-control" />
+                    </div>
+                </div>
+            </div>
+            <div class="form-group">
+                <div class="row">
+                    <div class="col-sm-2">
+                        <label>Identificador</label>
+                    </div>
+                    <div class="col-sm-4">
+                        <input type="text" asp-for="ID_Servicio" class="form-control" value="@ViewBag.id" readonly="readonly"/>
+                    </div>
+                </div>
+            </div>
+
+            @*botones*@
+            <div class="form-group">
+                <div class="row">
+
+                    <div class="col-sm-4">
+                        <input type="submit" value="Editar Servicio" class="btn btn-primary form-control" />
+                    </div>
+                </div>
+            </div>
+            <div class="form-group">
+                <div class="row">
+
+                    <div class="col-sm-4">
+                        <a asp-controller="Home" asp-action="Index" class="btn btn-success form-control"> Volver a la lista de Servicios</a>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+    </form>
+</div>

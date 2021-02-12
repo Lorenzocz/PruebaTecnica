@@ -1,0 +1,68 @@
+﻿
+@{
+    ViewBag.title = "Create Vehicule";
+}
+
+@model PruebaTecnica_Entidades.VehiculoDTO;
+
+<h1>@ViewBag.title</h1>
+
+
+<div class="border">
+   
+    <form  method="post" asp-action="saveVehiculo" asp-controller="Home">
+        
+        <div class="container" style="padding:30px;">
+           
+            <div class="form-group">
+                <div class="row">
+                    <div class="col-sm-2">
+                        <label>Placa del Vehiculo</label>
+                    </div>
+                    <div class="col-sm-4">
+                        <input  type="text"  asp-for="Placa" class="form-control" />
+                    </div>
+                </div>
+            </div>
+            <div class="form-group">
+                <div class="row">
+                    <div class="col-sm-2">
+                        <label>Nombre del Dueño</label>
+                    </div>
+                    <div class="col-sm-4">
+                        <input type="text" asp-for="Dueno" class="form-control"  />
+                    </div>
+                </div>
+            </div>
+            <div class="form-group">
+                <div class="row">
+                    <div class="col-sm-2">
+                        <label>Marca del Vehiculo</label>
+                    </div>
+                    <div class="col-sm-4">
+                        <input type="text" asp-for="Marca" class="form-control" />
+                    </div>
+                </div>
+            </div>
+
+             @*botones*@ 
+            <div class="form-group">
+                <div class="row">
+
+                    <div class="col-sm-4">
+                        <input type="submit" value="Crear" class="btn btn-primary form-control"  />
+                    </div>
+                </div>
+            </div>
+            <div class="form-group">
+                <div class="row">
+
+                    <div class="col-sm-4">
+                        <a asp-controller="Home" asp-action="Index" class="btn btn-success form-control"> Volver a la lista de Vehiculos</a>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+    </form>
+</div>

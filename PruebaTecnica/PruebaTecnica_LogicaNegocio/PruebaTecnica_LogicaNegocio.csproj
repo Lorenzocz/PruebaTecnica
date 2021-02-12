@@ -1,0 +1,12 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\PruebaTecnica_AccesoDatos\PruebaTecnica_AccesoDatos.csproj" />
+    <ProjectReference Include="..\PruebaTecnica_Entidades\PruebaTecnica_Entidades.csproj" />
+  </ItemGroup>
+
+</Project>

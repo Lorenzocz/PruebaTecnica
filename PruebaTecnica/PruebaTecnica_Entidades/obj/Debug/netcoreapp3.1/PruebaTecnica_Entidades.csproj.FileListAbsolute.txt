@@ -1,0 +1,9 @@
+D:\Prueba Tecnica\PruebaTecnica\PruebaTecnica_Entidades\bin\Debug\netcoreapp3.1\PruebaTecnica_Entidades.deps.json
+D:\Prueba Tecnica\PruebaTecnica\PruebaTecnica_Entidades\bin\Debug\netcoreapp3.1\PruebaTecnica_Entidades.dll
+D:\Prueba Tecnica\PruebaTecnica\PruebaTecnica_Entidades\bin\Debug\netcoreapp3.1\PruebaTecnica_Entidades.pdb
+D:\Prueba Tecnica\PruebaTecnica\PruebaTecnica_Entidades\obj\Debug\netcoreapp3.1\PruebaTecnica_Entidades.AssemblyInfoInputs.cache
+D:\Prueba Tecnica\PruebaTecnica\PruebaTecnica_Entidades\obj\Debug\netcoreapp3.1\PruebaTecnica_Entidades.AssemblyInfo.cs
+D:\Prueba Tecnica\PruebaTecnica\PruebaTecnica_Entidades\obj\Debug\netcoreapp3.1\PruebaTecnica_Entidades.csproj.CoreCompileInputs.cache
+D:\Prueba Tecnica\PruebaTecnica\PruebaTecnica_Entidades\obj\Debug\netcoreapp3.1\PruebaTecnica_Entidades.dll
+D:\Prueba Tecnica\PruebaTecnica\PruebaTecnica_Entidades\obj\Debug\netcoreapp3.1\PruebaTecnica_Entidades.pdb
+D:\Prueba Tecnica\PruebaTecnica\PruebaTecnica_Entidades\obj\Debug\netcoreapp3.1\PruebaTecnica_Entidades.csprojAssemblyReference.cache
